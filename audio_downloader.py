@@ -5,11 +5,9 @@ from telethon.sessions import StringSession
 from AudioDetail import AudioDetail
 import logging
 from datetime import datetime
-from dotenv import load_dotenv
 import json
 from config import conf
 
-load_dotenv()
 
 API_ID = int(conf.API_ID)
 API_HASH = conf.API_HASH
@@ -58,6 +56,15 @@ def audio_detail_append(audio:AudioDetail, data:dict):
         audio.id = data["general_info"]["last_internal_id"]
         data["audio_info"][audio.id] = audio.to_dict()
         data["map_msg_id"][audio.msg_id] = audio.id
+        
+async def audio_detail_fetcher(client, channel, min_id, data_limit, duration_limit, data):
+    async for msg in client.iter_messages(channel, min_id=min_id, reverse=True, limit=data_limit):
+        if not msg.audio:
+            continue
+        audio = AudioDetail(msg)
+        if audio.duration <= duration_limit:
+            audio_detail_append(audio, data)
+    return data
 
 #----------------------------------------------------------
 
@@ -89,13 +96,8 @@ async def main():
     client = TelegramClient(SESSION_OBJ, API_ID, API_HASH, proxy=proxy)
     await client.start()
     channel = await client.get_entity(CHANNEL_USERNAME)
-    async for msg in client.iter_messages(channel, min_id=MIN_MSG_ID, reverse=True, limit=DATA_FETCH_LIMIT):
-        if not msg.audio:
-            continue
-        audio = AudioDetail(msg)
-        if audio.duration <= DURATION_LIMIT:
-            audio_detail_append(audio, data)
-    dump_json(DATA_FILE_PATH, data )
+    await audio_detail_fetcher(client, channel, MIN_MSG_ID, DATA_FETCH_LIMIT, DURATION_LIMIT, data)
+    dump_json(DATA_FILE_PATH, data)
 
 asyncio.run(main())
 
