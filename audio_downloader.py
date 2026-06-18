@@ -3,7 +3,8 @@ from telethon import TelegramClient
 from telethon.tl.types import Message
 from telethon.sessions import StringSession
 from AudioDetail import AudioDetail
-import logging
+from FetchDetail import load_json,dump_json, create_and_fill_if_empty
+from DownloadAudio import download_audio_by_internal_id,add_opus_extension,add_github_raw_url_to_detail
 from datetime import datetime
 import json
 from config import conf
@@ -15,7 +16,6 @@ SESSION_OBJ=StringSession(conf.SESSION_STR)
 
 CHANNEL_USERNAME = conf.CHANNEL_USERNAME
 DOWNLOAD_PATH= conf.DOWNLOAD_PATH
-DATA_FILE_PATH = conf.DATA_FILE_PATH
 DATE_FORMAT = conf.DATE_FORMAT
 LOAD_START_DATE = conf.LOAD_START_DATE
 DURATION_LIMIT = int(conf.DURATION_LIMIT)
@@ -29,75 +29,28 @@ proxy=("http", "127.0.0.1", 10808)
 #-----------------------------------------------------
 #---------------- Define Functions -------------------
 
-def load_json(file):
-    with open(file, 'r', encoding="utf-8") as f:
-        data = json.load(f)
-        return data
+origin_data = load_json(conf.ORIGIN_DATA_FILE_PATH)
 
-def dump_json(file, data):
-    with open(file, "w", encoding="utf-8") as file:
-        json.dump(data, file, indent=4, ensure_ascii=False)
+create_and_fill_if_empty(conf.DOWNLOADED_DATA_FILE_PATH, conf.ORIGIN_JSON_DATA_FORM)
 
-def load_datetime(strdate, strformat):
-    return datetime.strptime(strdate, strformat)
-
-def audio_detail_update(audio:AudioDetail, data:dict):
-    stored_detail_id = data["map_msg_id"][audio.msg_id]
-    stored_detail = data["audio_info"][stored_detail_id]
-    if load_datetime(audio.edit_date, DATE_FORMAT) > load_datetime(stored_detail["edit_date"], DATE_FORMAT):
-        data["audio_info"][stored_detail_id] = audio.to_dict()
-
-def audio_detail_append(audio:AudioDetail, data:dict):
-    if audio.msg_id in data["map_msg_id"]:
-        audio.id = data["map_msg_id"][audio.msg_id]
-        audio_detail_update(audio, data)
-    else:
-        data["general_info"]["last_internal_id"] += 1
-        audio.id = data["general_info"]["last_internal_id"]
-        data["audio_info"][audio.id] = audio.to_dict()
-        data["map_msg_id"][audio.msg_id] = audio.id
-        
-async def audio_detail_fetcher(client, channel, min_id, data_limit, duration_limit, data):
-    async for msg in client.iter_messages(channel, min_id=min_id, reverse=True, limit=data_limit):
-        if not msg.audio:
-            continue
-        audio = AudioDetail(msg)
-        if audio.duration <= duration_limit:
-            audio_detail_append(audio, data)
-    return data
-
-#----------------------------------------------------------
-
-data = {
-    "audio_info" : {},
-    "map_msg_id" : {},
-    "general_info": {
-        "last_internal_id": 0
-    }
-}
-
-data = load_json(DATA_FILE_PATH)
-        
-async def get_msg_by_audio_detail(client:TelegramClient,chat, audio:AudioDetail):
-
-    msg = await client.get_messages(chat, ids=int(audio.msg_id))
-    return msg
-
-async def downoad_audio_by_msg(msg:Message, file_path:str, file_name:str):
-    if hasattr(msg, "audio") and msg.audio:
-        file = f"{file_path}/{file_name}"
-        await msg.download_media(file=file)
-
-async def download_audio_by_audio_detail(client:TelegramClient, chat, audio:AudioDetail):
-    msg = await get_msg_by_audio_detail(client, chat, audio)
-    await downoad_audio_by_msg(msg, DOWNLOAD_PATH, audio.filename)
+downloaded_data = load_json(conf.DOWNLOADED_DATA_FILE_PATH)
 
 async def main():
     client = TelegramClient(SESSION_OBJ, API_ID, API_HASH, proxy=proxy)
     await client.start()
-    channel = await client.get_entity(CHANNEL_USERNAME)
-    await audio_detail_fetcher(client, channel, MIN_MSG_ID, DATA_FETCH_LIMIT, DURATION_LIMIT, data)
-    dump_json(DATA_FILE_PATH, data)
+    channel = await client.get_input_entity(CHANNEL_USERNAME)
+    last_downloaded_intid = int(downloaded_data["general_info"]["last_downloaded_internal_id"]) + 1
+    if origin_data["audio_info"][str(last_downloaded_intid)]:
+        origin_detail = origin_data["audio_info"][str(last_downloaded_intid)]
+        await download_audio_by_internal_id(client, channel, origin_data, last_downloaded_intid, conf.DOWNLOAD_PATH )
+        opus_filename = add_opus_extension(origin_detail["filename"])
+        new_detail = add_github_raw_url_to_detail(origin_detail, opus_filename, conf.REPO_OWNER, conf.REPO_NAME, conf.REPO_BRANCH)
+        downloaded_data["audio_info"][str(last_downloaded_intid)] = new_detail
+        downloaded_data["general_info"]["last_downloaded_internal_id"] = last_downloaded_intid
+    dump_json(conf.DOWNLOADED_DATA_FILE_PATH, downloaded_data)
+    
+        
+    
 
 asyncio.run(main())
 
