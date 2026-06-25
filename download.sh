@@ -16,7 +16,7 @@ get_directory_size_mb() {
 # Check if directory exists
 if [ ! -d "$DOWNLOAD_PATH" ]; then
     echo "Error: Directory '$DOWNLOAD_PATH' does not exist"
-    exit 1
+    mkdir -p ./${DOWNLOAD_PATH}
 fi
 
 # Check if Python script exists
