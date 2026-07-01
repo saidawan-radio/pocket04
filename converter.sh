@@ -4,10 +4,10 @@ extensions=("*.mp3" "*.m4a" "*.ogg" "*.flac" "*.acc" "*.wav" "*.webm" "*.aiff")
 
 
 export DOWNLOAD_PATH
-export COVERS_DIR
+export COVER_PATH_DIR
 
-mkdir -p ./"$COVERS_DIR"
-echo $COVERS_DIR
+mkdir -p ./"$COVER_PATH_DIR"
+echo $COVER_PATH_DIR
 for ext in "${extensions[@]}"; do
     find "$DOWNLOAD_PATH" -iname "$ext" -exec sh -c '
         input="$1"
@@ -15,7 +15,7 @@ for ext in "${extensions[@]}"; do
         temp="${input}.temp.opus"
         song_output="${input}.opus"
         cover_name=$(echo "$input_basename" | grep -oE '^[0-9]+')
-        cover_output="$COVERS_DIR/$cover_name.jpg"
+        cover_output="$COVER_PATH_DIR/$cover_name.jpg"
         ffmpeg -i ${input} -an -c:v copy -frames:v 1 -update 1 -y "$cover_output"  || echo "No cover found in $input"
 
          # Get bitrate in kbps
