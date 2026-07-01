@@ -18,7 +18,14 @@ def add_github_raw_url_to_detail(detail:dict, download_path, filename, repo_owne
     
     detail["github_url"] = raw_url
     return detail
-    
+
+def add_cover_image_url_to_detail(detail:dict, download_path, repo_owner, repo_name, branch='master'):
+    internalid = detail["id"]
+    filename = f"{internalid}.jpg"
+    url = get_github_raw_url(download_path, filename, repo_owner, repo_name, branch)
+    detail["cover_url"] = url
+    return detail
+     
 def add_opus_extension(filename:str):
     return filename + ".opus"
 

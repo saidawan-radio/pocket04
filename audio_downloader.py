@@ -4,7 +4,7 @@ from telethon.tl.types import Message
 from telethon.sessions import StringSession
 from AudioDetail import AudioDetail
 from FetchDetail import load_json,dump_json, create_and_fill_if_empty
-from DownloadAudio import download_audio_by_internal_id,add_opus_extension,add_github_raw_url_to_detail
+from DownloadAudio import download_audio_by_internal_id,add_opus_extension,add_github_raw_url_to_detail, add_cover_image_url_to_detail
 from datetime import datetime
 import json
 from config import conf
@@ -45,6 +45,8 @@ async def main():
         await download_audio_by_internal_id(client, channel, origin_data, last_downloaded_intid, conf.DOWNLOAD_PATH )
         opus_filename = add_opus_extension(origin_detail["filename"])
         new_detail = add_github_raw_url_to_detail(origin_detail, conf.DOWNLOAD_PATH, opus_filename, conf.REPO_OWNER, conf.REPO_NAME, conf.REPO_BRANCH)
+        new_detail = add_cover_image_url_to_detail(new_detail, conf.GITHUB_COVER_PATH, conf.REPO_OWNER, conf.REPO_NAME, conf.REPO_BRANCH)
+        print(new_detail)
         downloaded_data["audio_info"][str(last_downloaded_intid)] = new_detail
         downloaded_data["general_info"]["last_downloaded_internal_id"] = last_downloaded_intid
     dump_json(conf.DOWNLOADED_DATA_FILE_PATH, downloaded_data)
