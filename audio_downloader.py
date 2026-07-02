@@ -46,7 +46,7 @@ async def main():
         opus_filename = add_opus_extension(origin_detail["filename"])
         new_detail = add_github_raw_url_to_detail(origin_detail, conf.DOWNLOAD_PATH, opus_filename, conf.REPO_OWNER, conf.REPO_NAME, conf.REPO_BRANCH)
         new_detail = add_cover_image_url_to_detail(new_detail, conf.COVER_PATH_DIR, conf.REPO_OWNER, conf.REPO_NAME, conf.REPO_BRANCH)
-        print(new_detail)
+        print(new_detail["id"],new_detail["msg_id"], new_detail["title"], new_detail["author_name"])
         downloaded_data["audio_info"][str(last_downloaded_intid)] = new_detail
         downloaded_data["general_info"]["last_downloaded_internal_id"] = last_downloaded_intid
     dump_json(conf.DOWNLOADED_DATA_FILE_PATH, downloaded_data)

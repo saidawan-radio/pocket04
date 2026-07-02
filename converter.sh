@@ -16,7 +16,7 @@ for ext in "${extensions[@]}"; do
         song_output="${input}.opus"
         cover_name=$(echo "$input_basename" | grep -oE '^[0-9]+')
         cover_output="$COVER_PATH_DIR/$cover_name.jpg"
-        ffmpeg -i ${input} -an -c:v copy -frames:v 1 -update 1 -y "$cover_output"  || echo "No cover found in $input"
+        ffmpeg -i ${input} -an -c:v copy -frames:v 1 -update 1 -y "$cover_output" 2>/dev/null || echo "No cover found in $input"
 
          # Get bitrate in kbps
         br=$(ffprobe -v error -show_entries format=bit_rate -of default=noprint_wrappers=1:nokey=1 "$input")

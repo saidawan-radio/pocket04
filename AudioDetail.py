@@ -106,7 +106,6 @@ class AudioDetail:
         if word and re.match(pat, word):
             return True
         else:
-            print(word)
             return False
 
     def char_normalization(self, char, input_string):
