@@ -47,6 +47,12 @@ if [ "$DIR_SIZE" -lt "$DATA_FETCH_SIZE_LIMIT" ]; then
     if [ ! $? -eq 0 ]; then
         exit 1
     fi
+
+    echo "Run 3:"
+    python3 "$PYTHON_SCRIPT"
+    if [ ! $? -eq 0 ]; then
+        exit 1
+    fi
     
     echo "Script execution completed."
 else
