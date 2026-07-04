@@ -659,10 +659,76 @@
             "document_id": 6048613188964980755,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/270_saidaWan_Gol-Afroz_Brouska-Band_20250415-2000.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/270.jpg"
+        },
+        "271": {
+            "id": "271",
+            "title": null,
+            "performer": null,
+            "duration": 119,
+            "date": "20250416-0424",
+            "author_name": "‏∞... A.R...∞",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "455",
+            "message": "خاکی پۆشان",
+            "filename": "271_saidaWan_20250416-0424.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250416-0651",
+            "size": 1,
+            "document_id": 6050864988778666212,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/271_saidaWan_20250416-0424.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/271.jpg"
+        },
+        "272": {
+            "id": "272",
+            "title": "Kazacok",
+            "performer": "Ciwan Haco",
+            "duration": 165,
+            "date": "20250416-1735",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "456",
+            "message": "Rêya xebatê çende sext û dûr be\nHawirdor me pêt û agir be\n\nVê rêya pîroz tu car em bernadin\nBo mirinê her tim amad in\n~>\nCiwan Haco",
+            "filename": "272_saidaWan_Kazacok_Ciwan-Haco_20250416-1735.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250417-1335",
+            "size": 3,
+            "document_id": 5764666991151421787,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/272_saidaWan_Kazacok_Ciwan-Haco_20250416-1735.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/272.jpg"
+        },
+        "273": {
+            "id": "273",
+            "title": "Dilo ez bimrim - Mem Ararat",
+            "performer": "@radioseir",
+            "duration": 221,
+            "date": "20250417-1526",
+            "author_name": "Mehran",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "457",
+            "message": "",
+            "filename": "273_saidaWan_Dilo-ez-bimrim-Mem-Ararat_radioseir_20250417-1526.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250417-1526",
+            "size": 4,
+            "document_id": 5766912919744813336,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/273_saidaWan_Dilo-ez-bimrim-Mem-Ararat_radioseir_20250417-1526.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/273.jpg"
         }
     },
     "map_msg_id": {},
     "general_info": {
-        "last_downloaded_internal_id": 270
+        "last_downloaded_internal_id": 273
     }
 }
