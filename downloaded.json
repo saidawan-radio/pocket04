@@ -857,10 +857,76 @@
             "document_id": 5800808797349878603,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/279_saidaWan_20250429-0928.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/279.jpg"
+        },
+        "280": {
+            "id": "280",
+            "title": "ya mirin ya di‌yarbekir",
+            "performer": "Rzgar malamahmodi",
+            "duration": 169,
+            "date": "20250503-1303",
+            "author_name": null,
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "465",
+            "message": "",
+            "filename": "280_saidaWan_Rzgar-malamahmodi_20250503-1303.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260625-2345",
+            "size": 3,
+            "document_id": 5904283982668766980,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/280_saidaWan_Rzgar-malamahmodi_20250503-1303.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/280.jpg"
+        },
+        "281": {
+            "id": "281",
+            "title": "Kazacok",
+            "performer": "Mercan argunaga",
+            "duration": 143,
+            "date": "20250505-0857",
+            "author_name": null,
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "466",
+            "message": "Rêya xebatê çende sext û dûr be\nHawirdor me pêt û agir be\n\nVê rêya pîroz tu car em bernadin\nBo mirinê her tim amad in\n~>\nMercan argunaga",
+            "filename": "281_saidaWan_Kazacok_Mercan-argunaga_20250505-0857.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250510-1206",
+            "size": 3,
+            "document_id": 5834650554072046533,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/281_saidaWan_Kazacok_Mercan-argunaga_20250505-0857.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/281.jpg"
+        },
+        "282": {
+            "id": "282",
+            "title": "Nave Yara Men Nare",
+            "performer": "Aram Tigran",
+            "duration": 377,
+            "date": "20250508-0823",
+            "author_name": null,
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "467",
+            "message": "",
+            "filename": "282_saidaWan_Nave-Yara-Men-Nare_Aram-Tigran_20250508-0823.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260103-1751",
+            "size": 16,
+            "document_id": 5828030196992711339,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/282_saidaWan_Nave-Yara-Men-Nare_Aram-Tigran_20250508-0823.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/282.jpg"
         }
     },
     "map_msg_id": {},
     "general_info": {
-        "last_downloaded_internal_id": 279
+        "last_downloaded_internal_id": 282
     }
 }
