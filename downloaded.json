@@ -791,10 +791,76 @@
             "document_id": 5793911840081849415,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/276_saidaWan_Shirin-Shirin_Taher-Khalil_20250426-1415.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/276.jpg"
+        },
+        "277": {
+            "id": "277",
+            "title": "بەهارە خەمڕەوێنە",
+            "performer": "کەیهان کەلهۆڕ و ئەبداڵ ئەرزەنجان",
+            "duration": 446,
+            "date": "20250427-1618",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "462",
+            "message": "",
+            "filename": "277_saidaWan_20250427-1618.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250427-1618",
+            "size": 4,
+            "document_id": 5796305197722507772,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/277_saidaWan_20250427-1618.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/277.jpg"
+        },
+        "278": {
+            "id": "278",
+            "title": "سینه مالامال درد است",
+            "performer": "MohammadReza Shajarian",
+            "duration": 630,
+            "date": "20250427-2240",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "463",
+            "message": "سینه مالامال درد است ای دریغا مرهمی\nدل ز تنهایی به جان آمد خدا را همدمی\n\nچشم آسایش که دارد از سپهر تیزرو؟\nساقیا جامی به من ده تا بیاسایم دمی\nحافظ\n~>\nمحمدرضا شجریان",
+            "filename": "278_saidaWan_MohammadReza-Shajarian_20250427-2240.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250428-1236",
+            "size": 11,
+            "document_id": 5798759788712040095,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/278_saidaWan_MohammadReza-Shajarian_20250427-2240.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/278.jpg"
+        },
+        "279": {
+            "id": "279",
+            "title": "مەقام حیجاز",
+            "performer": "لەیلا فەریقی",
+            "duration": 623,
+            "date": "20250429-0928",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "464",
+            "message": "ئەو دەنگە. ئەو مەقاااامە.",
+            "filename": "279_saidaWan_20250429-0928.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260625-2346",
+            "size": 15,
+            "document_id": 5800808797349878603,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/279_saidaWan_20250429-0928.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/279.jpg"
         }
     },
     "map_msg_id": {},
     "general_info": {
-        "last_downloaded_internal_id": 276
+        "last_downloaded_internal_id": 279
     }
 }
