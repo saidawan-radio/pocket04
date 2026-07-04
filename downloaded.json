@@ -131,10 +131,76 @@
             "document_id": 5936302306730448730,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/246_saidaWan_20250308-1046.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/246.jpg"
+        },
+        "247": {
+            "id": "247",
+            "title": "دەردی فیراق",
+            "performer": "Hani Mojtahedi",
+            "duration": 246,
+            "date": "20250309-0000",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "428",
+            "message": "دڵ لەبەر دەردی فیراقی یارە...\n~>\nهانی موجتەهیدی",
+            "filename": "247_saidaWan_Hani-Mojtahedi_20250309-0000.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250311-1108",
+            "size": 5,
+            "document_id": 5918043086495160288,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/247_saidaWan_Hani-Mojtahedi_20250309-0000.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/247.jpg"
+        },
+        "248": {
+            "id": "248",
+            "title": "Farda Soraghe Man Bia",
+            "performer": "Mohsen Namjoo",
+            "duration": 358,
+            "date": "20250313-2130",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "430",
+            "message": "امروز از هم گسستم اگه بال و پر شکستم و\nبه پرتگاه غم رسیده گامهای من\nچو غرق خاطراتم و غریق بی نجاتم و\nبی خواب و زابراهم و طوفان حال من\n\nفردا سراغ من بیا یک روز زیبا سراغ من بیا\n~>\nمحسن نامجو",
+            "filename": "248_saidaWan_Farda-Soraghe-Man-Bia_Mohsen-Namjoo_20250313-2130.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250313-2133",
+            "size": 6,
+            "document_id": 5951516154634704724,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/248_saidaWan_Farda-Soraghe-Man-Bia_Mohsen-Namjoo_20250313-2130.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/248.jpg"
+        },
+        "249": {
+            "id": "249",
+            "title": "Hawar",
+            "performer": "Naser Razzazi",
+            "duration": 408,
+            "date": "20250314-2113",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "431",
+            "message": "",
+            "filename": "249_saidaWan_Hawar_Naser-Razzazi_20250314-2113.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250314-2113",
+            "size": 17,
+            "document_id": 5778619823772666575,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/249_saidaWan_Hawar_Naser-Razzazi_20250314-2113.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/249.jpg"
         }
     },
     "map_msg_id": {},
     "general_info": {
-        "last_downloaded_internal_id": 246
+        "last_downloaded_internal_id": 249
     }
 }
