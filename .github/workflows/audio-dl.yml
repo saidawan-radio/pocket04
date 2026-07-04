@@ -80,8 +80,8 @@ jobs:
                   COVER_PATH_DIR: ${{ vars.COVER_PATH_DIR }}
 
               run: |
-                  git config --local user.email "moohamadiann@gmail.com"
-                  git config --local user.name "Mohsen"
+                  git config --local user.email "${{ github.actor_id }}+${{ github.actor }}@users.noreply.github.com"
+                  git config --local user.name "${{ github.actor }}"
                   git add ./$DOWNLOAD_PATH ./$DOWNLOADED_DATA_FILE_PATH ./$COVER_PATH_DIR
                   git diff --quiet && git diff --staged --quiet || git commit -m "Fetch/Update audio detail"
                   git push
