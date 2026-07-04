@@ -10,7 +10,7 @@ on:
 jobs:
     fetch-data:
         runs-on: ubuntu-latest
-        environment: pocket03
+        environment: pocket04
 
         steps:
             - name: Checkout repository
