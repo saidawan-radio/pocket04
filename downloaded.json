@@ -197,10 +197,76 @@
             "document_id": 5778619823772666575,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/249_saidaWan_Hawar_Naser-Razzazi_20250314-2113.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/249.jpg"
+        },
+        "250": {
+            "id": "250",
+            "title": "gul xunçe",
+            "performer": "rizgar melamehmudî",
+            "duration": 234,
+            "date": "20250314-2114",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "432",
+            "message": "",
+            "filename": "250_saidaWan_20250314-2114.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250314-2236",
+            "size": 4,
+            "document_id": 5832629552915943176,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/250_saidaWan_20250314-2114.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/250.jpg"
+        },
+        "251": {
+            "id": "251",
+            "title": "ez dilgeşê can im & slaw",
+            "performer": "rizgar Melamehmûdî ",
+            "duration": 374,
+            "date": "20250314-2114",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "433",
+            "message": "",
+            "filename": "251_saidaWan_20250314-2114.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250407-1812",
+            "size": 7,
+            "document_id": 5832629552915943175,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/251_saidaWan_20250314-2114.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/251.jpg"
+        },
+        "252": {
+            "id": "252",
+            "title": "گیانە بەسیەتی",
+            "performer": "Ali Mardan",
+            "duration": 590,
+            "date": "20250315-2150",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "434",
+            "message": "گیانە بەسیەتی، گیانە بەسیەتی\nتوخوا بەسیەتی، دەرد و مەینەتی\nهەر هێندە دەبێ تووشی و نەگبەتی\nقنیاتم تەنها ژاراوی پەتی\nپیرەمێرد\n\nئەی مانگ من و تۆ هەردوو هاودەردین\nهەردوو گرفتار یەک ئاهی سەردین\nتۆ وێڵ و ڕەنگ زەرد بەئاسمانەوە\nمنیش دەربەدەر بە شارانەوە\nبێکەس\n~>\nعەلی مەردان",
+            "filename": "252_saidaWan_Ali-Mardan_20250315-2150.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250315-2159",
+            "size": 15,
+            "document_id": 5958551873706268954,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/252_saidaWan_Ali-Mardan_20250315-2150.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/252.jpg"
         }
     },
     "map_msg_id": {},
     "general_info": {
-        "last_downloaded_internal_id": 249
+        "last_downloaded_internal_id": 252
     }
 }
