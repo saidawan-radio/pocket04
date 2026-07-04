@@ -395,10 +395,76 @@
             "document_id": 5976744040912131939,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/258_saidaWan_Harir-Harira_Naser-Razazi_20250321-0645.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/258.jpg"
+        },
+        "259": {
+            "id": "259",
+            "title": "Sînê",
+            "performer": "Koma Wetan",
+            "duration": 281,
+            "date": "20250324-2040",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "441",
+            "message": "Were Sînê lê\nEz heyrana çavê te me\nHeylê Sînê\nWere Sînê lê\nEz birîndarê bejna te me\nHeyra minê\n~>\nKoma Wetan",
+            "filename": "259_saidaWan_Koma-Wetan_20250324-2040.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250324-2049",
+            "size": 5,
+            "document_id": 5985721669317040081,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/259_saidaWan_Koma-Wetan_20250324-2040.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/259.jpg"
+        },
+        "260": {
+            "id": "260",
+            "title": "Chit Ba Sarhat ",
+            "performer": "Naser Razazi ",
+            "duration": 254,
+            "date": "20250324-2234",
+            "author_name": "‏∞... A.R...∞",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "442",
+            "message": "چیت به سه‌ر هات - مامۆستا ناسر",
+            "filename": "260_saidaWan_Chit-Ba-Sarhat-_Naser-Razazi-_20250324-2234.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250324-2234",
+            "size": 5,
+            "document_id": 5985789284987181332,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/260_saidaWan_Chit-Ba-Sarhat-_Naser-Razazi-_20250324-2234.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/260.jpg"
+        },
+        "261": {
+            "id": "261",
+            "title": "Dardi Bi Darman ",
+            "performer": "Naser Razazi ",
+            "duration": 194,
+            "date": "20250325-0453",
+            "author_name": "‏∞... A.R...∞",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "443",
+            "message": "د‌ه‌ردی بێ ده‌رمان  - مامۆستا ناسر",
+            "filename": "261_saidaWan_Dardi-Bi-Darman-_Naser-Razazi-_20250325-0453.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250325-0454",
+            "size": 4,
+            "document_id": 5987766533311435936,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/261_saidaWan_Dardi-Bi-Darman-_Naser-Razazi-_20250325-0453.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/261.jpg"
         }
     },
     "map_msg_id": {},
     "general_info": {
-        "last_downloaded_internal_id": 258
+        "last_downloaded_internal_id": 261
     }
 }
