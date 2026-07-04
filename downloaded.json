@@ -65,10 +65,76 @@
             "document_id": 5917939577783326173,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04//musics/243_saidaWan_Kani_20250304-2140.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04//covers/243.jpg"
+        },
+        "244": {
+            "id": "244",
+            "title": "هەی ڕۆ",
+            "performer": "Naser Razazi",
+            "duration": 260,
+            "date": "20250306-1802",
+            "author_name": "‏∞... A.R...∞",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "425",
+            "message": "هه‌ی ڕۆ هه‌ی ڕۆ ڕۆ ڕۆمه‌بۆ\nئه‌وباوکه‌ی مه‌رگی بو به‌هۆ\nتۆبێ هانابی وڕه‌نجه‌ڕۆ\nئه‌ی کورپه‌ی ساوای دڵ به‌سۆ\n~>\nناسر ڕەزازی",
+            "filename": "244_saidaWan_Naser-Razazi_20250306-1802.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260702-1957",
+            "size": 5,
+            "document_id": 5945219255837398153,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/244_saidaWan_Naser-Razazi_20250306-1802.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/244.jpg"
+        },
+        "245": {
+            "id": "245",
+            "title": "ئەگەر چی شەو",
+            "performer": "Kani",
+            "duration": 99,
+            "date": "20250307-2130",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "426",
+            "message": "ئەگەرچی شەو درەنگە ساقی بۆم تێکە کەمێکی تر\nکە وا ئەمشەو سەری هەڵدا لە ناخمدا خەمێکی تر\nلە بادە ئەم ژەمە تێر کە منی تینووی جگەرسووتاو\nبە چی دیارە کە دەیبینم شەوێکی تر، ژەمێکی تر!\nهێمن\n~>\nکانی",
+            "filename": "245_saidaWan_Kani_20250307-2130.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260216-1906",
+            "size": 2,
+            "document_id": 5917939577783326158,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/245_saidaWan_Kani_20250307-2130.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/245.jpg"
+        },
+        "246": {
+            "id": "246",
+            "title": "Gîrode",
+            "performer": "Reza BabaMîrî",
+            "duration": 181,
+            "date": "20250308-1046",
+            "author_name": null,
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "427",
+            "message": "بە دڵ گیرۆدە بەو پرچی بەچینم\nڕەش و ئاڵۆزە وەک ئەو بەخت و ژینم\nدڵت گرتم، خەیاڵی خۆت تیا دی\nخەوت بردم کە لەودا تۆ دەبینم *",
+            "filename": "246_saidaWan_20250308-1046.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260702-1959",
+            "size": 2,
+            "document_id": 5936302306730448730,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/246_saidaWan_20250308-1046.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/246.jpg"
         }
     },
     "map_msg_id": {},
     "general_info": {
-        "last_downloaded_internal_id": 243
+        "last_downloaded_internal_id": 246
     }
 }
