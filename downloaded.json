@@ -527,10 +527,76 @@
             "document_id": 6001420427618947934,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/264_saidaWan_20250330-1359.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/264.jpg"
+        },
+        "265": {
+            "id": "265",
+            "title": "Hawareh",
+            "performer": "Foad Yareh",
+            "duration": 201,
+            "date": "20250402-1430",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "448",
+            "message": "بۆخۆم دوورم نایگەمێ کەس نیە وەڵامی دەمێ\nجوتێ ڕەشی هیلالی کەوتوونە ژێر پەرچەمێ\nسەبر و هۆشی لێ بریوم خستومیە بەحری غەمێ\nگۆشەی چادرەکەت لادە بە مانگ دەرچێ لە تەمێ\nهەوارە گوڵ هەوارە گیانە سبەی دەچمە هەوارێ \nسەفەرم دوورو درێژە گیانە چیت بۆ بێنم بە دیاری\nلەبەر ئەو ژنە ڕەشتاڵە قەدی دەڵێی شمشاڵە\nسەر دەکەمە سەر ڕانت پێم دادە بەو دەسماڵە\nگەر کۆ لێیان پرسی چێیە بمشێلە بڵێی بێ حاڵە\nهەوارە گوڵم …",
+            "filename": "265_saidaWan_Hawareh_Foad-Yareh_20250402-1430.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250403-0353",
+            "size": 4,
+            "document_id": 6012865244152469351,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/265_saidaWan_Hawareh_Foad-Yareh_20250402-1430.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/265.jpg"
+        },
+        "266": {
+            "id": "266",
+            "title": "Naser Razazi - YARM DAMRKA",
+            "performer": "@kurdgraphi",
+            "duration": 463,
+            "date": "20250403-1239",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "449",
+            "message": "🎙 ناسر ڕەزازی\n🎧 یارم دەمێکە",
+            "filename": "266_saidaWan_Naser-Razazi-YARM-DAMRKA_kurdgraphi_20250403-1239.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250404-0429",
+            "size": 6,
+            "document_id": 5958793809214051763,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/266_saidaWan_Naser-Razazi-YARM-DAMRKA_kurdgraphi_20250403-1239.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/266.jpg"
+        },
+        "267": {
+            "id": "267",
+            "title": null,
+            "performer": null,
+            "duration": 322,
+            "date": "20250411-2140",
+            "author_name": null,
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "451",
+            "message": "",
+            "filename": "267_saidaWan_20250411-2140.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250411-2143",
+            "size": 6,
+            "document_id": 6039395622212082074,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/267_saidaWan_20250411-2140.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/267.jpg"
         }
     },
     "map_msg_id": {},
     "general_info": {
-        "last_downloaded_internal_id": 264
+        "last_downloaded_internal_id": 267
     }
 }
