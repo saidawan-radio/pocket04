@@ -725,10 +725,76 @@
             "document_id": 5766912919744813336,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/273_saidaWan_Dilo-ez-bimrim-Mem-Ararat_radioseir_20250417-1526.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/273.jpg"
+        },
+        "274": {
+            "id": "274",
+            "title": "عارەق چێن",
+            "performer": "حەسەن زیرەک",
+            "duration": 471,
+            "date": "20250419-1116",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "459",
+            "message": "",
+            "filename": "274_saidaWan_20250419-1116.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250419-1119",
+            "size": 8,
+            "document_id": 5771767959366147244,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/274_saidaWan_20250419-1116.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/274.jpg"
+        },
+        "275": {
+            "id": "275",
+            "title": "Kani ",
+            "performer": "Naser Razazi ",
+            "duration": 464,
+            "date": "20250421-1740",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "460",
+            "message": "",
+            "filename": "275_saidaWan_Kani-_Naser-Razazi-_20250421-1740.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250421-1748",
+            "size": 8,
+            "document_id": 5778595325279214068,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/275_saidaWan_Kani-_Naser-Razazi-_20250421-1740.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/275.jpg"
+        },
+        "276": {
+            "id": "276",
+            "title": "Shirin Shirin",
+            "performer": "Taher Khalil",
+            "duration": 520,
+            "date": "20250426-1415",
+            "author_name": null,
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "461",
+            "message": "",
+            "filename": "276_saidaWan_Shirin-Shirin_Taher-Khalil_20250426-1415.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250517-1117",
+            "size": 9,
+            "document_id": 5793911840081849415,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/276_saidaWan_Shirin-Shirin_Taher-Khalil_20250426-1415.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/276.jpg"
         }
     },
     "map_msg_id": {},
     "general_info": {
-        "last_downloaded_internal_id": 273
+        "last_downloaded_internal_id": 276
     }
 }
