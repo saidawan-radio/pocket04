@@ -593,10 +593,76 @@
             "document_id": 6039395622212082074,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/267_saidaWan_20250411-2140.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/267.jpg"
+        },
+        "268": {
+            "id": "268",
+            "title": "Dewana Khom",
+            "performer": "Naser Razazi",
+            "duration": 329,
+            "date": "20250413-0609",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "452",
+            "message": "",
+            "filename": "268_saidaWan_Dewana-Khom_Naser-Razazi_20250413-0609.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250413-0609",
+            "size": 6,
+            "document_id": 6041590621083278828,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/268_saidaWan_Dewana-Khom_Naser-Razazi_20250413-0609.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/268.jpg"
+        },
+        "269": {
+            "id": "269",
+            "title": "http://www.kourdmusic.com",
+            "performer": "Mezher Xaleqi",
+            "duration": 317,
+            "date": "20250415-1812",
+            "author_name": null,
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "453",
+            "message": "bîrt dekem _ xaleqî",
+            "filename": "269_saidaWan_Mezher-Xaleqi_20250415-1812.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250415-1818",
+            "size": 6,
+            "document_id": 6048613188964980664,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/269_saidaWan_Mezher-Xaleqi_20250415-1812.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/269.jpg"
+        },
+        "270": {
+            "id": "270",
+            "title": "Gol Afroz",
+            "performer": "Brouska Band",
+            "duration": 198,
+            "date": "20250415-2000",
+            "author_name": null,
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "454",
+            "message": "",
+            "filename": "270_saidaWan_Gol-Afroz_Brouska-Band_20250415-2000.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250415-2000",
+            "size": 9,
+            "document_id": 6048613188964980755,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/270_saidaWan_Gol-Afroz_Brouska-Band_20250415-2000.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/270.jpg"
         }
     },
     "map_msg_id": {},
     "general_info": {
-        "last_downloaded_internal_id": 267
+        "last_downloaded_internal_id": 270
     }
 }
