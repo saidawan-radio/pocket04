@@ -1253,10 +1253,76 @@
             "document_id": 5916025182010481123,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/297_saidaWan_20250623-2134.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/297.jpg"
+        },
+        "298": {
+            "id": "298",
+            "title": "شد خزان",
+            "performer": "Javad Badizade",
+            "duration": 401,
+            "date": "20250626-1852",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "486",
+            "message": "شد خزان؛ گلشنِ آشنایی\nباز هم آتش به جان زد، جدایى\nعمرِ من؛ اى گل… طى شد، بهرِ تو\nوز تو ندیدم؛ جز بد عهدى و بى وفایى\nبا تو وفا کردم؛ تا به تنم جان بود\nعشق و وفادارى؛ با تو چه دارد سود؟\n~>\nجواد بدیع‌زاده",
+            "filename": "298_saidaWan_Javad-Badizade_20250626-1852.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250626-2057",
+            "size": 17,
+            "document_id": 5976723781551396160,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/298_saidaWan_Javad-Badizade_20250626-1852.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/298.jpg"
+        },
+        "299": {
+            "id": "299",
+            "title": "ناصر رزازی ـــ به تفنگی برنو",
+            "performer": "@bartaonana",
+            "duration": 156,
+            "date": "20250703-2117",
+            "author_name": "Mehran",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "489",
+            "message": "",
+            "filename": "299_saidaWan_bartaonana_20250703-2117.mp3",
+            "mime_type": "audio/mp3",
+            "edit_date": "20250703-2117",
+            "size": 2,
+            "document_id": 1024892880314958456,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/299_saidaWan_bartaonana_20250703-2117.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/299.jpg"
+        },
+        "300": {
+            "id": "300",
+            "title": "ناسر ڕەزازی / لەسەر مەرگی هیوا",
+            "performer": "@NaserRazazi",
+            "duration": 283,
+            "date": "20250703-2117",
+            "author_name": "Mehran",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "490",
+            "message": "",
+            "filename": "300_saidaWan_NaserRazazi_20250703-2117.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250704-0414",
+            "size": 6,
+            "document_id": 5996946171208146427,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/300_saidaWan_NaserRazazi_20250703-2117.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/300.jpg"
         }
     },
     "map_msg_id": {},
     "general_info": {
-        "last_downloaded_internal_id": 297
+        "last_downloaded_internal_id": 300
     }
 }
