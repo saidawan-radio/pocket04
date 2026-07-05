@@ -1121,10 +1121,76 @@
             "document_id": 5915829224127602648,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/291_saidaWan_Kani_20250606-2345.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/291.jpg"
+        },
+        "292": {
+            "id": "292",
+            "title": "Kizha Ey Gol",
+            "performer": "Naser Razazi",
+            "duration": 283,
+            "date": "20250608-2054",
+            "author_name": "Mehran",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "480",
+            "message": "",
+            "filename": "292_saidaWan_Kizha-Ey-Gol_Naser-Razazi_20250608-2054.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250608-2055",
+            "size": 5,
+            "document_id": 5855108647239025729,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/292_saidaWan_Kizha-Ey-Gol_Naser-Razazi_20250608-2054.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/292.jpg"
+        },
+        "293": {
+            "id": "293",
+            "title": "Shiveye Nooshin Laban",
+            "performer": "Mohsen Namjoo",
+            "duration": 329,
+            "date": "20250609-1929",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "481",
+            "message": "",
+            "filename": "293_saidaWan_Shiveye-Nooshin-Laban_Mohsen-Namjoo_20250609-1929.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250610-1007",
+            "size": 14,
+            "document_id": 6048859750152541470,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/293_saidaWan_Shiveye-Nooshin-Laban_Mohsen-Namjoo_20250609-1929.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/293.jpg"
+        },
+        "294": {
+            "id": "294",
+            "title": "Merziya & Nasir",
+            "performer": "@FZ_Kurdi",
+            "duration": 456,
+            "date": "20250609-2026",
+            "author_name": "Mehran",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "482",
+            "message": "",
+            "filename": "294_saidaWan_Merziya-Nasir_FZ-Kurdi_20250609-2026.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250609-2026",
+            "size": 8,
+            "document_id": 5924823426811304339,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/294_saidaWan_Merziya-Nasir_FZ-Kurdi_20250609-2026.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/294.jpg"
         }
     },
     "map_msg_id": {},
     "general_info": {
-        "last_downloaded_internal_id": 291
+        "last_downloaded_internal_id": 294
     }
 }
