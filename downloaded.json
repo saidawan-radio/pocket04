@@ -1583,10 +1583,76 @@
             "document_id": 5771586024551487525,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/312_saidaWan_20250725-1209.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/312.jpg"
+        },
+        "313": {
+            "id": "313",
+            "title": null,
+            "performer": null,
+            "duration": 250,
+            "date": "20250727-1025",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "506",
+            "message": "",
+            "filename": "313_saidaWan_20250727-1025.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250727-1025",
+            "size": 2,
+            "document_id": 6051104295766465185,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/313_saidaWan_20250727-1025.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/313.jpg"
+        },
+        "314": {
+            "id": "314",
+            "title": "Ey Goli Awat",
+            "performer": "Hama Jaza",
+            "duration": 336,
+            "date": "20250729-2143",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "508",
+            "message": "",
+            "filename": "314_saidaWan_Ey-Goli-Awat_Hama-Jaza_20250729-2143.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250729-2143",
+            "size": 6,
+            "document_id": 5877364729680237229,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/314_saidaWan_Ey-Goli-Awat_Hama-Jaza_20250729-2143.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/314.jpg"
+        },
+        "315": {
+            "id": "315",
+            "title": "حەسەن زیرەک - مەناڵە بولبول",
+            "performer": "@Gardon_TV ",
+            "duration": 295,
+            "date": "20250729-2145",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "509",
+            "message": "",
+            "filename": "315_saidaWan_Gardon-TV-_20250729-2145.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250729-2148",
+            "size": 5,
+            "document_id": 6028589024933844298,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/315_saidaWan_Gardon-TV-_20250729-2145.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/315.jpg"
         }
     },
     "map_msg_id": {},
     "general_info": {
-        "last_downloaded_internal_id": 312
+        "last_downloaded_internal_id": 315
     }
 }
