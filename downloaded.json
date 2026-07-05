@@ -923,10 +923,76 @@
             "document_id": 5828030196992711339,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/282_saidaWan_Nave-Yara-Men-Nare_Aram-Tigran_20250508-0823.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/282.jpg"
+        },
+        "283": {
+            "id": "283",
+            "title": "Nasir Rezazî | Sozit Damê",
+            "performer": "@KBC_LM",
+            "duration": 241,
+            "date": "20250510-1157",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "468",
+            "message": "",
+            "filename": "283_saidaWan_KBC-LM_20250510-1157.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250510-1157",
+            "size": 10,
+            "document_id": 5834520519642192373,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/283_saidaWan_KBC-LM_20250510-1157.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/283.jpg"
+        },
+        "284": {
+            "id": "284",
+            "title": "Sharta Rashposh Bem",
+            "performer": "Hasan Zirak",
+            "duration": 253,
+            "date": "20250515-1704",
+            "author_name": "Mehran",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "469",
+            "message": "",
+            "filename": "284_saidaWan_Sharta-Rashposh-Bem_Hasan-Zirak_20250515-1704.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250516-0931",
+            "size": 5,
+            "document_id": 5832547970012158585,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/284_saidaWan_Sharta-Rashposh-Bem_Hasan-Zirak_20250515-1704.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/284.jpg"
+        },
+        "285": {
+            "id": "285",
+            "title": "زلف",
+            "performer": "Mohsen Namjoo",
+            "duration": 382,
+            "date": "20250518-2300",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "470",
+            "message": "زلف بر باد مده تا ندهی بر بادم\nناز بنیاد مکن تا نکَنی بنیادم\n\nمِی مخور با همه کس تا نخورم خون جگر\nسر مکش تا نکشد سر به فلک فریادم\n\nزلف را حلقه مکن تا نکنی در بندم\nطُرّه را تاب مده تا ندهی بر بادم\nحافظ\n~>\nمحسن نامجو",
+            "filename": "285_saidaWan_Mohsen-Namjoo_20250518-2300.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250518-2309",
+            "size": 7,
+            "document_id": 5859663421401732940,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/285_saidaWan_Mohsen-Namjoo_20250518-2300.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/285.jpg"
         }
     },
     "map_msg_id": {},
     "general_info": {
-        "last_downloaded_internal_id": 282
+        "last_downloaded_internal_id": 285
     }
 }
