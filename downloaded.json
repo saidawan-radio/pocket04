@@ -1187,10 +1187,76 @@
             "document_id": 5924823426811304339,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/294_saidaWan_Merziya-Nasir_FZ-Kurdi_20250609-2026.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/294.jpg"
+        },
+        "295": {
+            "id": "295",
+            "title": "Kulbar",
+            "performer": "Naser Razazi",
+            "duration": 478,
+            "date": "20250612-1008",
+            "author_name": "Mehran",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "483",
+            "message": "",
+            "filename": "295_saidaWan_Kulbar_Naser-Razazi_20250612-1008.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20260618-1831",
+            "size": 9,
+            "document_id": 5881754370940347341,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/295_saidaWan_Kulbar_Naser-Razazi_20250612-1008.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/295.jpg"
+        },
+        "296": {
+            "id": "296",
+            "title": "Ako Lotfollahzade - Dalila",
+            "performer": "Ako Lotfollahzadeh",
+            "duration": 130,
+            "date": "20250617-2231",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "484",
+            "message": "",
+            "filename": "296_saidaWan_Ako-Lotfollahzade-Dalila_Ako-Lotfollahzadeh_20250617-2231.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250617-2231",
+            "size": 6,
+            "document_id": 5949793207029077280,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/296_saidaWan_Ako-Lotfollahzade-Dalila_Ako-Lotfollahzadeh_20250617-2231.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/296.jpg"
+        },
+        "297": {
+            "id": "297",
+            "title": "گوڵەکەم دەڵێن ئەوا دێ",
+            "performer": "محەممەد ماملێ",
+            "duration": 502,
+            "date": "20250623-2134",
+            "author_name": "Mehran",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "485",
+            "message": "گوڵەکەم دەڵێن ئەوا دێ، هەموو وەختێ چاوەچاوم\nئەی خودا تۆ بڵەی وەها بێ، بێتەوە ڕووناکی چاوم؟!\n\nسەبەبی زولفی شێواوە حوسنی ڕوو مەدەدی پێداوە\nمن کە وا ڕۆژم بۆتە شەو کە بە ڕۆژی ڕەش داماوم\nوەفایی\n~>\nماملێ",
+            "filename": "297_saidaWan_20250623-2134.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250723-0548",
+            "size": 9,
+            "document_id": 5916025182010481123,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/297_saidaWan_20250623-2134.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/297.jpg"
         }
     },
     "map_msg_id": {},
     "general_info": {
-        "last_downloaded_internal_id": 294
+        "last_downloaded_internal_id": 297
     }
 }
