@@ -989,10 +989,76 @@
             "document_id": 5859663421401732940,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/285_saidaWan_Mohsen-Namjoo_20250518-2300.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/285.jpg"
+        },
+        "286": {
+            "id": "286",
+            "title": "Jargam Paykana",
+            "performer": "Naser Razazi",
+            "duration": 164,
+            "date": "20250519-1008",
+            "author_name": "Mehran",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "471",
+            "message": "",
+            "filename": "286_saidaWan_Jargam-Paykana_Naser-Razazi_20250519-1008.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250519-1008",
+            "size": 3,
+            "document_id": 5861475347844833151,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/286_saidaWan_Jargam-Paykana_Naser-Razazi_20250519-1008.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/286.jpg"
+        },
+        "287": {
+            "id": "287",
+            "title": "Xidire min (Oh my Khidir)",
+            "performer": "Aynur Dogan, Cemil Qocgiri, Salman Gambarov, Kayhan Kalhor",
+            "duration": 648,
+            "date": "20250521-1611",
+            "author_name": null,
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "472",
+            "message": "",
+            "filename": "287_saidaWan_20250521-1611.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250724-0952",
+            "size": 27,
+            "document_id": 5868628345293380912,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/287_saidaWan_20250521-1611.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/287.jpg"
+        },
+        "288": {
+            "id": "288",
+            "title": "دل زارم",
+            "performer": "Mohsen namjoo",
+            "duration": 298,
+            "date": "20250521-2333",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "473",
+            "message": "دل زارم فغان کم کن\nتو اشک از دیده گان کم کن\nغم و ناله ز جان کم کن\n\nبت دیرین، شب پیشین\nکه به خوابم ماهی آمد\nشده آگاه، دلم ای ماه\nکه تو پیشم خواهی آمد\nگذری کن، نظری کن\nچه خوش اندام و شیرینی\nدل مارا، تو دل آرا\nز وفا ده تسکینی..\n~>\nمحسن نامجو",
+            "filename": "288_saidaWan_Mohsen-namjoo_20250521-2333.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250522-0457",
+            "size": 5,
+            "document_id": 5864008468016404572,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/288_saidaWan_Mohsen-namjoo_20250521-2333.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/288.jpg"
         }
     },
     "map_msg_id": {},
     "general_info": {
-        "last_downloaded_internal_id": 285
+        "last_downloaded_internal_id": 288
     }
 }
