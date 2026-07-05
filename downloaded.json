@@ -1781,10 +1781,76 @@
             "document_id": 5881754370940347344,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/321_saidaWan_20250805-1609.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/321.jpg"
+        },
+        "322": {
+            "id": "322",
+            "title": "دیلان",
+            "performer": "Naze Azizi",
+            "duration": 158,
+            "date": "20250807-1126",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "519",
+            "message": "Hêsir ji çavên min dibare\nWek barana buharê\nAgir û mij, êş û elem\nLi ser me de dibare\nMin ji we re negot bawer nekin?\nDujmin wek gurê har e\n\nDîlan, dîlan. Wey dîlana sebra dilan\n~>\nنازێ ئەزیزی",
+            "filename": "322_saidaWan_Naze-Azizi_20250807-1126.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250808-0951",
+            "size": 5,
+            "document_id": 5814593713929722901,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/322_saidaWan_Naze-Azizi_20250807-1126.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/322.jpg"
+        },
+        "323": {
+            "id": "323",
+            "title": "Asheqi",
+            "performer": "Hani Mojtahedy",
+            "duration": 226,
+            "date": "20250808-1009",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "520",
+            "message": "",
+            "filename": "323_saidaWan_Asheqi_Hani-Mojtahedy_20250808-1009.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250808-1020",
+            "size": 10,
+            "document_id": 6037557320374817685,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/323_saidaWan_Asheqi_Hani-Mojtahedy_20250808-1009.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/323.jpg"
+        },
+        "324": {
+            "id": "324",
+            "title": null,
+            "performer": null,
+            "duration": 593,
+            "date": "20250808-2225",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "521",
+            "message": "دەنگبێژ : مەسعوود یارە \nدیوان : سیروان شاهسەواری\n\nمەقام:\nدەمگرێ ئەمما لە گرتووخانە ڕق ئەستوور ترم \nلێم دەدا ئەمما لەسەر داوا ڕەواکەم سوور ترم \nدەمکوژێ ئەمما بەگژ جەللادەکەم دا دێمەوە \nکوردم و ناتوێمەوە ناتوێمەوە ناتوێمەوە",
+            "filename": "324_saidaWan_20250808-2225.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250809-0717",
+            "size": 10,
+            "document_id": 5814601092683536898,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/324_saidaWan_20250808-2225.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/324.jpg"
         }
     },
     "map_msg_id": {},
     "general_info": {
-        "last_downloaded_internal_id": 321
+        "last_downloaded_internal_id": 324
     }
 }
