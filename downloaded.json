@@ -1319,10 +1319,76 @@
             "document_id": 5996946171208146427,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/300_saidaWan_NaserRazazi_20250703-2117.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/300.jpg"
+        },
+        "301": {
+            "id": "301",
+            "title": "Ay Kaki Bezaz",
+            "performer": "Naser Razazei",
+            "duration": 170,
+            "date": "20250703-2118",
+            "author_name": "Mehran",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "491",
+            "message": "ئەی مزگێن مزگێنی کراس هاتەوە\nدوو گەز بە باڵای یارم دوورواوە\nخه‌توخال شیرین بە عەینە کەوە😎😂",
+            "filename": "301_saidaWan_Ay-Kaki-Bezaz_Naser-Razazei_20250703-2118.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250703-2123",
+            "size": 4,
+            "document_id": 5796410020694329618,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/301_saidaWan_Ay-Kaki-Bezaz_Naser-Razazei_20250703-2118.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/301.jpg"
+        },
+        "302": {
+            "id": "302",
+            "title": "Namdweni",
+            "performer": "Hassan Zirak",
+            "duration": 522,
+            "date": "20250705-1952",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "493",
+            "message": "",
+            "filename": "302_saidaWan_Namdweni_Hassan-Zirak_20250705-1952.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250705-1952",
+            "size": 9,
+            "document_id": 5792011282693492161,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/302_saidaWan_Namdweni_Hassan-Zirak_20250705-1952.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/302.jpg"
+        },
+        "303": {
+            "id": "303",
+            "title": "Dar hejiroke",
+            "performer": "Aynur Doğan",
+            "duration": 294,
+            "date": "20250705-1952",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "494",
+            "message": "",
+            "filename": "303_saidaWan_Dar-hejiroke_20250705-1952.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250705-1952",
+            "size": 5,
+            "document_id": 5793917157251223212,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/303_saidaWan_Dar-hejiroke_20250705-1952.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/303.jpg"
         }
     },
     "map_msg_id": {},
     "general_info": {
-        "last_downloaded_internal_id": 300
+        "last_downloaded_internal_id": 303
     }
 }
