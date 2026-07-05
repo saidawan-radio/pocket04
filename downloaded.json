@@ -1451,10 +1451,76 @@
             "document_id": 6034942174917834218,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/306_saidaWan_Sardan_Ata-Ghareh-Daghi_20250716-2019.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/306.jpg"
+        },
+        "307": {
+            "id": "307",
+            "title": "Ageri Del",
+            "performer": "Hasan Kakae",
+            "duration": 208,
+            "date": "20250716-2301",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "499",
+            "message": "",
+            "filename": "307_saidaWan_Ageri-Del_Hasan-Kakae_20250716-2301.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250717-0431",
+            "size": 4,
+            "document_id": 5771707168399038566,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/307_saidaWan_Ageri-Del_Hasan-Kakae_20250716-2301.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/307.jpg"
+        },
+        "308": {
+            "id": "308",
+            "title": "تۆفان",
+            "performer": "Gashtyar kawa",
+            "duration": 202,
+            "date": "20250721-1846",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "501",
+            "message": "تۆفان\n~>\nگەشتیار کاوە",
+            "filename": "308_saidaWan_Gashtyar-kawa_20250721-1846.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250722-1316",
+            "size": 2,
+            "document_id": 6051058726163454366,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/308_saidaWan_Gashtyar-kawa_20250721-1846.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/308.jpg"
+        },
+        "309": {
+            "id": "309",
+            "title": "چو برشکست صبا",
+            "performer": "Mohamad Motamedi",
+            "duration": 525,
+            "date": "20250722-1347",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "502",
+            "message": "چو برشکست صبا زلف عنبرافشانش\nبه هر شکسته‌که پیوست تازه‌شد جانش\n\nجمال کعبه مگر عذر رهروان خواهد\nکه جان زنده دلان سوخت در بیابانش\nحافظ\n~>\nمحمد معتمدی",
+            "filename": "309_saidaWan_Mohamad-Motamedi_20250722-1347.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250722-2102",
+            "size": 7,
+            "document_id": 6050773853867612585,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/309_saidaWan_Mohamad-Motamedi_20250722-1347.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/309.jpg"
         }
     },
     "map_msg_id": {},
     "general_info": {
-        "last_downloaded_internal_id": 306
+        "last_downloaded_internal_id": 309
     }
 }
