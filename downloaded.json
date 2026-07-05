@@ -1055,10 +1055,76 @@
             "document_id": 5864008468016404572,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/288_saidaWan_Mohsen-namjoo_20250521-2333.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/288.jpg"
+        },
+        "289": {
+            "id": "289",
+            "title": "دیدەم زارا",
+            "performer": "خاڵۆ ناسر",
+            "duration": 654,
+            "date": "20250522-0954",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "474",
+            "message": "مەقام: گیان مەڕۆ\nگۆرانی: دیدەم زارا",
+            "filename": "289_saidaWan_20250522-0954.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250527-0935",
+            "size": 11,
+            "document_id": 5902177988404842066,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/289_saidaWan_20250522-0954.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/289.jpg"
+        },
+        "290": {
+            "id": "290",
+            "title": "بۆت مردم ناسک و جوانی",
+            "performer": "حەسەن زیرەک",
+            "duration": 479,
+            "date": "20250530-1227",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "476",
+            "message": "",
+            "filename": "290_saidaWan_20250530-1227.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250530-1245",
+            "size": 6,
+            "document_id": 5888519837784742124,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/290_saidaWan_20250530-1227.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/290.jpg"
+        },
+        "291": {
+            "id": "291",
+            "title": "سەر لە سەر ڕانی",
+            "performer": "Kani",
+            "duration": 233,
+            "date": "20250606-2345",
+            "author_name": "Mohsen",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "479",
+            "message": "عاشق و ماڵوێران بووم\nسەر لەسەر ڕانی تاکوو بەیانی\nبوومە میوانی نازەنینێ\nبە برینی خۆم نەزانی\nسەر لەسەر ڕانی تاکوو بەیانی\nبوومە میوانی نازەنینێ\nبا بڕوا بە لەعنەت بێ\nسەر لەسەر ڕانی تاکوو بەیانی\nبوومە میوانی نازەنینێ\nدۆستی نامیهرەبانی\nسەر لەسەر ڕانی تاکوو بەیانی\nبوومە میوانی نازەنینێ \n~>\nکانی",
+            "filename": "291_saidaWan_Kani_20250606-2345.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250606-2346",
+            "size": 4,
+            "document_id": 5915829224127602648,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/291_saidaWan_Kani_20250606-2345.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/291.jpg"
         }
     },
     "map_msg_id": {},
     "general_info": {
-        "last_downloaded_internal_id": 288
+        "last_downloaded_internal_id": 291
     }
 }
