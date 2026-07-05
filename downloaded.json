@@ -1385,10 +1385,76 @@
             "document_id": 5793917157251223212,
             "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/303_saidaWan_Dar-hejiroke_20250705-1952.mp3.opus",
             "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/303.jpg"
+        },
+        "304": {
+            "id": "304",
+            "title": "Agar Chi Shaw",
+            "performer": "Merziye Feriqi ",
+            "duration": 407,
+            "date": "20250705-1954",
+            "author_name": "Amin Kareshi",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "495",
+            "message": "",
+            "filename": "304_saidaWan_Agar-Chi-Shaw_Merziye-Feriqi-_20250705-1954.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250705-1959",
+            "size": 7,
+            "document_id": 5771774663810094775,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/304_saidaWan_Agar-Chi-Shaw_Merziye-Feriqi-_20250705-1954.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/304.jpg"
+        },
+        "305": {
+            "id": "305",
+            "title": "Eger Wityan",
+            "performer": "Merziye Ferîqî [@HevallanMusic]",
+            "duration": 335,
+            "date": "20250715-1635",
+            "author_name": "A.R",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "497",
+            "message": "ئه‌گه‌ر وتیان - مه‌رزیه فه‌ریقی",
+            "filename": "305_saidaWan_Eger-Wityan_20250715-1635.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250715-1636",
+            "size": 5,
+            "document_id": 6033085228627531849,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/305_saidaWan_Eger-Wityan_20250715-1635.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/305.jpg"
+        },
+        "306": {
+            "id": "306",
+            "title": "Sardan",
+            "performer": "Ata Ghareh Daghi",
+            "duration": 348,
+            "date": "20250716-2019",
+            "author_name": "Mehran",
+            "channel": {
+                "id": 1917238138,
+                "username": "saidaWan",
+                "name": "سەیدەوان"
+            },
+            "msg_id": "498",
+            "message": "ئەگەر رۆژێک ئەو منی خۆش ویستبێ💔\n 1:20",
+            "filename": "306_saidaWan_Sardan_Ata-Ghareh-Daghi_20250716-2019.mp3",
+            "mime_type": "audio/mpeg",
+            "edit_date": "20250716-2022",
+            "size": 6,
+            "document_id": 6034942174917834218,
+            "github_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/musics/306_saidaWan_Sardan_Ata-Ghareh-Daghi_20250716-2019.mp3.opus",
+            "cover_url": "https://raw.githubusercontent.com/saidawan-radio/pocket04/master/covers/306.jpg"
         }
     },
     "map_msg_id": {},
     "general_info": {
-        "last_downloaded_internal_id": 303
+        "last_downloaded_internal_id": 306
     }
 }
